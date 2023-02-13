@@ -16,7 +16,7 @@
 *	preparing test scenarios/test cases
 
 ## Soft skills
-*	Basic understanding of web technologies
+*	Basic **understanding** of web technologies
 *	Team player attitude with good **communication** skills
 *	Self-organized approach and **attention** to details
 *	**Curiosity** to learn new technologies
