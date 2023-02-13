@@ -33,13 +33,13 @@
 
 ### Blogs  ( in progress )
 
-## Books ### in progress
+### Books  ( in progress )
 
-## Groups on FB ### in progress
+### Groups on FB ( in progress )
 
-## Regularly reading ### in progress
+### Regularly reading  ( in progress )
 
-## My Projects ### in progress
+### My Projects ( in progress )
 
 
 
