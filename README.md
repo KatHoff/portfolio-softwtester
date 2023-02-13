@@ -31,15 +31,15 @@
 *	**10.2022** - Practical software testing course - **Udemy**
 *	**09.2022** - Basics of manual software testing - **Udemy**
 
-## Blogs
+## Blogs ### in progress
 
-## Books
+## Books ### in progress
 
-## Groups on FB
+## Groups on FB ### in progress
 
-## Regularly reading
+## Regularly reading ### in progress
 
-## My Projects
+## My Projects ### in progress
 
 
 
