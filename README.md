@@ -33,8 +33,19 @@ I'm strongly motivated person to change my current professional life. I've decid
 *	**10.2022** - Practical software testing course - [**Udemy**](https://drive.google.com/file/d/1kL4zLxVPwz4HweG4yQdVKG0KojdrNQqT/view?usp=share_link)
 *	**09.2022** - Basics of manual software testing - [**Udemy**](https://drive.google.com/file/d/1qVzR4buiFkKs5dfxfySw62PaV4Xw7q6z/view?usp=share_link)
 
-### Blogs  ( in progress )
+## Blogs  
 [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
+
 [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
+
 [bulldogjob.pl](https://bulldogjob.pl/readme/s/q,tester)
+
 [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/?fbclid=IwAR2VXnbT0cBI31R4W0eWQCA5Y6eknj191deF2KUTfVw2WJmAU92CkYNE914)
+
+[testerzy.pl](https://testerzy.pl/baza-wiedzy)
+
+## Books ( in progress )
+
+## Groups on FB ( in progress )
+
+## My Projects ( in progress )
