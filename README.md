@@ -1,5 +1,3 @@
-### Hello World?
-
 # Portfolio - Entry level software tester
 
 ## About me
