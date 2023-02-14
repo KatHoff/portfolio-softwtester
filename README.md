@@ -9,7 +9,6 @@
 *	testing web aplications
 *	a basic knowledge of **ISTQB**
 *	testing REST API with POSTMAN
-* GIT, GITFLOW
 *	UML
 *	HTML, CSS, JavaScript, Python – in progress
 *	creating bug reports
