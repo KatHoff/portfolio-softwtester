@@ -35,19 +35,6 @@ I'm strongly motivated person to change my current professional life. I've decid
 
 ### Blogs  ( in progress )
 [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-
-### Books  ( in progress )
-
-### Groups on FB ( in progress )
-
-### Regularly reading  ( in progress )
-
-### My Projects ( in progress )
-
-
-
-
-
-
-
-
+[wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
+[bulldogjob.pl](https://bulldogjob.pl/readme/s/q,tester)
+[pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/?fbclid=IwAR2VXnbT0cBI31R4W0eWQCA5Y6eknj191deF2KUTfVw2WJmAU92CkYNE914)
