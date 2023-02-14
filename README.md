@@ -28,7 +28,7 @@ I'm strongly motivated person to change my current professional life. I've decid
 ## Courses
 * **01.2023** - Start Your API Testing Journey with Postman Tools - [**Coursera**](https://www.coursera.org/account/accomplishments/certificate/TSRWW9VKUNZC)
 * **12.2022** - Manual testing of applications - [**Ifs & Whiles**](https://drive.google.com/file/d/16ziGBzSFcwUCWgOn0UgVhB9X6M7lWAFf/view?usp=share_link)
-*	**11.2022** - Became manual tester - [**Twoje kursy**] - in progress (https://jak-zostac-testerem.pl/)
+*	**11.2022** - Became manual tester - [**Twoje kursy** - in progress] (https://jak-zostac-testerem.pl/)
 *	**10.2022** - Jira for beginners - project management - [**Udemy**](https://drive.google.com/file/d/1eZSeFEA6SvheMDZZiZcdoHCXPQVmwSJA/view?usp=share_link)
 *	**10.2022** - Practical software testing course - [**Udemy**](https://drive.google.com/file/d/1kL4zLxVPwz4HweG4yQdVKG0KojdrNQqT/view?usp=share_link)
 *	**09.2022** - Basics of manual software testing - [**Udemy**](https://drive.google.com/file/d/1qVzR4buiFkKs5dfxfySw62PaV4Xw7q6z/view?usp=share_link)
