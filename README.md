@@ -27,7 +27,7 @@
 
 ## Courses
 * **01.2023** - Start Your API Testing Journey with Postman Tools - [**Coursera**](https://www.coursera.org/account/accomplishments/certificate/TSRWW9VKUNZC)
-* **12.2022** - Manual testing of applications - **Ifs & Whiles**
+* **12.2022** - Manual testing of applications - [**Ifs & Whiles**](https://drive.google.com/file/d/16ziGBzSFcwUCWgOn0UgVhB9X6M7lWAFf/view?usp=share_link)
 *	**11.2022** - Became manual tester - **Twoje kursy**
 *	**10.2022** - Jira for beginners - project management - **Udemy**
 *	**10.2022** - Practical software testing course - **Udemy**
