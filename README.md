@@ -48,6 +48,13 @@ I'm strongly motivated to change my current professional life. I've decided to d
 
 [testuj.pl](https://testuj.pl/blog/tester-oprogramowania-baza-wiedzy/)
 
+## The youtube channel
+[TechnikaProgramowania](https://www.youtube.com/@TechnikaProgramowania)
+
+[testerzy](https://www.youtube.com/@testerzy)
+
+[Python](https://www.youtube.com/@KacperSieradzinski)
+
 ## Books ( in progress )
 
 ## Groups on FB
