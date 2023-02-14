@@ -1,7 +1,7 @@
 # Portfolio - Entry level software tester
 
 ## About me
-I'm strongly motivated person to change my current professional life. I've decided to develop myself in the IT field. I'm looking for my first job in the IT industry as a manual tester. My main goal is to achieve some technical skills which will help me to become firstly a manual and then secondly an automation tester. My journey has just begun, cross your fingers, please :)!
+I'm strongly motivated to change my current professional life. I've decided to develop myself in the IT field. I'm looking for my first job in the IT industry as a manual tester. My main goal is to achieve some technical skills which will help me to become firstly a manual and then secondly an automation tester. My journey has just begun, cross your fingers, please :)!
 
 ## Connect with me
 <br>[<img align="bottom" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzynahoffmann/?locale=en_US)
@@ -44,8 +44,15 @@ I'm strongly motivated person to change my current professional life. I've decid
 
 [testerzy.pl](https://testerzy.pl/baza-wiedzy)
 
+[testuj.pl](https://testuj.pl/blog/tester-oprogramowania-baza-wiedzy/)
+
 ## Books ( in progress )
 
-## Groups on FB ( in progress )
+## Groups on FB
+[testujdziewczyno](https://www.facebook.com/groups/testujdziewczyno)
+
+[TestowanieOprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+
+[testeroprogramowania](https://www.facebook.com/groups/testeroprogramowania)
 
 ## My Projects ( in progress )
