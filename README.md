@@ -1,7 +1,7 @@
 # Portfolio - Entry level software tester
 
 ## About me
- My name is Katarzyna Hoffmann. I'm strongly motivated to change my current professional life. I've decided to develop myself in the IT field. I'm looking for my first job in the IT industry as a manual tester. My main goal is to achieve some technical skills which will help me to become firstly a manual and then secondly an automation tester. My journey has just begun, cross your fingers, please :)!
+I'm strongly motivated person to change my current professional life. I've decided to develop myself in the IT field. I'm looking for my first job in the IT industry as a manual tester. My main goal is to achieve some technical skills which will help me to become firstly a manual and then secondly an automation tester. My journey has just begun, cross your fingers, please :)!
 
 ## Connect with me
 <br>[<img align="bottom" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzynahoffmann/?locale=en_US)
@@ -29,9 +29,9 @@
 * **01.2023** - Start Your API Testing Journey with Postman Tools - [**Coursera**](https://www.coursera.org/account/accomplishments/certificate/TSRWW9VKUNZC)
 * **12.2022** - Manual testing of applications - [**Ifs & Whiles**](https://drive.google.com/file/d/16ziGBzSFcwUCWgOn0UgVhB9X6M7lWAFf/view?usp=share_link)
 *	**11.2022** - Became manual tester - **Twoje kursy** - in progress
-*	**10.2022** - Jira for beginners - project management - [**Udemy**](https://www.udemy.com/certificate/UC-a6489372-6cfb-4ed0-b2a8-25a1584a1092/0)
-*	**10.2022** - Practical software testing course - [**Udemy**]
-*	**09.2022** - Basics of manual software testing - [**Udemy**]
+*	**10.2022** - Jira for beginners - project management - [**Udemy**](https://drive.google.com/file/d/1eZSeFEA6SvheMDZZiZcdoHCXPQVmwSJA/view?usp=share_link)
+*	**10.2022** - Practical software testing course - [**Udemy**](https://drive.google.com/file/d/1kL4zLxVPwz4HweG4yQdVKG0KojdrNQqT/view?usp=share_link)
+*	**09.2022** - Basics of manual software testing - [**Udemy**](https://drive.google.com/file/d/1qVzR4buiFkKs5dfxfySw62PaV4Xw7q6z/view?usp=share_link)
 
 ### Blogs  ( in progress )
 
