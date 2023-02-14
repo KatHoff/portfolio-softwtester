@@ -53,6 +53,14 @@ I'm strongly motivated to change my current professional life. I've decided to d
 
 [TestowanieOprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 
+[czyitjestdlamnie](https://www.facebook.com/groups/czyitjestdlamnie)
+
 [testeroprogramowania](https://www.facebook.com/groups/testeroprogramowania)
+
+[ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
+
+[CanTest.IT Remotely - QA Coding Workshops](https://www.facebook.com/groups/cantestitremotely)
+
+[testowanieoprogramowaniapraca](https://www.facebook.com/groups/testowanieoprogramowaniapraca)
 
 ## My Projects ( in progress )
