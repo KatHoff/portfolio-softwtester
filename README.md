@@ -4,7 +4,7 @@
  My name is Katarzyna Hoffmann. I'm strongly motivated to change my current professional life. I've decided to develop myself in the IT field. I'm looking for my first job in the IT industry as a manual tester. My main goal is to achieve some technical skills which will help me to become firstly a manual and then secondly an automation tester. My journey has just begun, cross your fingers, please :)!
 
 ## Connect with me
-<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzynahoffmann/?locale=en_US)
+<br>[<img align="bottom" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzynahoffmann/?locale=en_US)
 
 
 ## Tech skills, Tools – entry level
