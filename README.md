@@ -34,6 +34,7 @@ I'm strongly motivated person to change my current professional life. I've decid
 *	**09.2022** - Basics of manual software testing - [**Udemy**](https://drive.google.com/file/d/1qVzR4buiFkKs5dfxfySw62PaV4Xw7q6z/view?usp=share_link)
 
 ### Blogs  ( in progress )
+[remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 
 ### Books  ( in progress )
 
