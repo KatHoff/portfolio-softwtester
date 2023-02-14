@@ -26,7 +26,7 @@
 *	**Analytical** thinking ability
 
 ## Courses
-* **01.2023** - Start Your API Testing Journey with Postman Tools - **Coursera**
+* **01.2023** - Start Your API Testing Journey with Postman Tools - [**Coursera**](https://www.coursera.org/account/accomplishments/certificate/TSRWW9VKUNZC)
 * **12.2022** - Manual testing of applications - **Ifs & Whiles**
 *	**11.2022** - Became manual tester - **Twoje kursy**
 *	**10.2022** - Jira for beginners - project management - **Udemy**
