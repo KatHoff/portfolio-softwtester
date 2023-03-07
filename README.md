@@ -23,6 +23,7 @@ Bug reports
 *	HTML, CSS, JavaScript, Python – in progress
 *	creating bug reports
 *	preparing test scenarios/test cases
+* DevTools
 
 ## Soft skills
 *	Basic **understanding** of web technologies
