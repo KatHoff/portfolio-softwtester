@@ -24,6 +24,7 @@ Bug reports
 *	creating bug reports
 *	preparing test scenarios/test cases
 * DevTools
+* SQL queries
 
 ## Soft skills
 *	Basic **understanding** of web technologies
