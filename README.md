@@ -13,6 +13,8 @@ Test cases
   
 Bug reports
 
+[1](https://drive.google.com/file/d/1-havlnImH0K1dwTWjENdQk5-72A0h6AI/view?usp=share_link)
+
 ## Tech skills, Tools – entry level
 * Jira, Trello, Confluence
 *	Agile, Scrum,
