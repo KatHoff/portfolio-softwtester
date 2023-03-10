@@ -21,6 +21,7 @@ Bug reports
 *	testing web aplications
 *	a basic knowledge of **ISTQB**
 *	testing REST API with POSTMAN
+*	testing REST API with Swagger
 *	UML
 *	HTML, CSS, JavaScript, Python – in progress
 *	creating bug reports
