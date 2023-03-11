@@ -6,7 +6,7 @@ I'm strongly motivated to change my current professional life. I've decided to d
 ## Connect with me
 <br>[<img align="bottom" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzynahoffmann/?locale=en_US)
 
-## My Projects ( in progress )
+## My Projects/Exercises ( in progress )
 Test cases
 
   [Facebook](https://docs.google.com/spreadsheets/d/1LGv9Bn3lH1zHVDcQjMldOju52sy4QUxQ_6_pyJbBBis/edit?usp=share_link)
@@ -14,6 +14,8 @@ Test cases
 Bug reports
 
 [1](https://drive.google.com/file/d/1-havlnImH0K1dwTWjENdQk5-72A0h6AI/view?usp=share_link)
+
+SQL queries
 
 ## Tech skills, Tools – entry level
 * Jira, Trello, Confluence
