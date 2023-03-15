@@ -40,6 +40,7 @@ Bug reports
 *	**Analytical** thinking ability
 
 ## Courses
+* **03.2023** - Intermediate SQL - [**datacamp**](https://drive.google.com/file/d/1KgqCmUwSuQzVNAJTGIjE42eVNnm7nmAd/view?usp=share_link)
 * **01.2023** - Start Your API Testing Journey with Postman Tools - [**Coursera**](https://www.coursera.org/account/accomplishments/certificate/TSRWW9VKUNZC)
 * **12.2022** - Manual testing of applications - [**Ifs & Whiles**](https://drive.google.com/file/d/16ziGBzSFcwUCWgOn0UgVhB9X6M7lWAFf/view?usp=share_link)
 *	**11.2022** - Became manual tester - [**Twoje kursy** - in progress](https://jak-zostac-testerem.pl/)
