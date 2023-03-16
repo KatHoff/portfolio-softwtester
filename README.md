@@ -15,7 +15,7 @@ Bug reports
 
 [1](https://drive.google.com/file/d/1-havlnImH0K1dwTWjENdQk5-72A0h6AI/view?usp=share_link)
 
-[SQL queries](https://drive.google.com/file/d/1gJ-6U4yVFnTwLfoExS_51PoepuvHJXmz/view?usp=share_link)
+[SQL queries](https://drive.google.com/file/d/1kuSosBbCydpJke2w3olSAOKam73Oed4O/view?usp=share_link)
 
 ## Tech skills, Tools – entry level
 * Jira, Trello, Confluence
