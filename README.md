@@ -13,7 +13,7 @@ Test cases
   
 Bug reports
 
-[2](https://drive.google.com/file/d/1P7-dzxXX6EWdv5TmYhCfcREv4EL2mp-O/view?usp=share_link), [1]
+[2](https://drive.google.com/file/d/1P7-dzxXX6EWdv5TmYhCfcREv4EL2mp-O/view?usp=share_link), [1](https://drive.google.com/file/d/1w8TIE92ZZT1e3Do-yz_Uy7oQjEexr_ZU/view?usp=share_link)
 
 [SQL queries](https://drive.google.com/file/d/1kuSosBbCydpJke2w3olSAOKam73Oed4O/view?usp=share_link)
 
