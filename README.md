@@ -23,21 +23,22 @@ Postman
 [Project nr 1](https://drive.google.com/file/d/1LtpsjbMkhxzRmM0VGzsWHAHEE-NwGSVQ/view?usp=share_link), 
 
 ## Tech skills, Tools – entry level
-* Jira, Trello, Confluence
-*	Agile, Scrum,
-*	testing web aplications
-*	a basic knowledge of **ISTQB**
+
 *	testing REST API with POSTMAN
 *	testing REST API with Swagger
-*	UML
-*	HTML, CSS, JavaScript, Python – in progress
 *	creating bug reports
 *	preparing test scenarios/test cases
 * DevTools
 * SQL queries
+*	UML
+*	HTML, CSS, JavaScript, Python – in progress
+* Jira, Trello, Confluence
+*	Agile, Scrum,
+*	testing web aplications
+*	knowledge of **ISTQB**
 
 ## Soft skills
-*	Basic **understanding** of web technologies
+*	**Understanding** of web technologies
 *	Team player attitude with good **communication** skills
 *	Self-organized approach and **attention** to details
 *	**Curiosity** to learn new technologies
