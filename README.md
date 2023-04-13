@@ -1,7 +1,7 @@
 # Portfolio - Entry level software tester
 
 ## About me
-I'm strongly motivated to change my current professional life. I've decided to develop myself in the IT field. I'm looking for my first job in the IT industry as a manual tester. My main goal is to achieve some technical skills which will help me to become firstly a manual and then secondly an automation tester. My journey has just begun, cross your fingers, please :)!
+I'm strongly motivated to change my current professional life. I've decided to develop myself in the IT field. I'm looking for a job in the IT industry as a manual tester. My main goal is to achieve some technical skills which will help me to become firstly a manual and then secondly an automation tester. My journey has just begun, cross your fingers, please :)!
 
 ## Connect with me
 <br>[<img align="bottom" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzynahoffmann/?locale=en_US)
@@ -30,12 +30,13 @@ Postman
 *	preparing test scenarios/test cases
 * DevTools
 * SQL queries
+* testing web aplications
+*	knowledge of **ISTQB**
 *	UML
 *	HTML, CSS, JavaScript, Python – in progress
 * Jira, Trello, Confluence
 *	Agile, Scrum,
-*	testing web aplications
-*	knowledge of **ISTQB**
+
 
 ## Soft skills
 *	**Understanding** of web technologies
