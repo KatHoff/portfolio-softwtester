@@ -1,7 +1,8 @@
-# Portfolio - Entry level software tester
+# Portfolio
+Entry-level software tester
 
 ## About me
-I'm strongly motivated to change my current professional life. I've decided to develop myself in the IT field. I'm looking for a job in the IT industry as a manual tester. My main goal is to achieve some technical skills which will help me to become firstly a manual and then secondly an automation tester. My journey has just begun, cross your fingers, please :)!
+I'm highly motivated to make a career change and pursue opportunities in the IT field. Specifically, I am seeking a position as a manual tester in the IT industry. My primary goal is to develop my technical skills to become proficient in manual testing, and eventually transition into automation testing. Though my journey has just begun, I am determined to succeed. Keep your fingers crossed for me! :)
 
 ## Connect with me
 <br>[<img align="bottom" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzynahoffmann/?locale=en_US)
