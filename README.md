@@ -7,6 +7,9 @@ I'm highly motivated to make a career change and pursue opportunities in the IT 
 ## Connect with me
 <br>[<img align="bottom" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katarzynahoffmann/?locale=en_US)
 
+## Recommendation
+[ifs&whiles] [ENG](https://drive.google.com/file/d/1RgiVHKuR1KXAUJRm1t7NiTfMuR4Sb8kO/view?usp=sharing) [PL](https://drive.google.com/file/d/1-w2egSmbkn7lZKqrPgcTD77YqS066p5f/view?usp=sharing)
+
 ## My Projects/Exercises ( in progress )
 Test cases
 
