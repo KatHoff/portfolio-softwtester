@@ -48,6 +48,7 @@ Postman
 *	**Analytical** thinking ability
 
 ## Courses
+* **05.2023** - Postman - REST API testing - [**Udemy**](https://drive.google.com/file/d/1AmstXuQCaXCn-Lqu0aE0PHl5Tsq5zNSs/view?usp=drive_link)
 * **03.2023** - Intermediate SQL - [**datacamp**](https://drive.google.com/file/d/1KgqCmUwSuQzVNAJTGIjE42eVNnm7nmAd/view?usp=share_link)
 * **01.2023** - Start Your API Testing Journey with Postman Tools - [**Coursera**](https://www.coursera.org/account/accomplishments/certificate/TSRWW9VKUNZC)
 * **12.2022** - Manual testing of applications - [**Ifs & Whiles**](https://drive.google.com/file/d/16ziGBzSFcwUCWgOn0UgVhB9X6M7lWAFf/view?usp=share_link)
