@@ -15,7 +15,7 @@ I'm highly motivated to make a career change and pursue opportunities in the IT 
 ## My Projects/Exercises ( in progress )
 Test cases
 
-  [2](https://docs.google.com/spreadsheets/d/1I4zSh_90uX-90eNO4WL3mjj1H1mrvm-S/edit?usp=share_link&ouid=105697695448233424971&rtpof=true&sd=true), 
+  [2](https://docs.google.com/spreadsheets/d/1rqUyDXi_WU_YSJASktWt-Z-YiFGkWoTzL159d3Tkfag/edit?usp=sharing), 
   [1](https://docs.google.com/spreadsheets/d/1LGv9Bn3lH1zHVDcQjMldOju52sy4QUxQ_6_pyJbBBis/edit?usp=share_link)
   
 Bug reports
