@@ -28,7 +28,7 @@ SQL queries
 
 Postman
 
-[Project nr 1](https://drive.google.com/file/d/1Pj-zUHLX53w0ivuofPDXRGqc-G2-oHti/view?usp=share_link), 
+[1](https://drive.google.com/file/d/1Pj-zUHLX53w0ivuofPDXRGqc-G2-oHti/view?usp=share_link), 
 
 ## Tech skills, Tools – entry level
 
