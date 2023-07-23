@@ -13,6 +13,17 @@ I'm highly motivated to make a career change and pursue opportunities in the IT 
 [PL](https://drive.google.com/file/d/1-w2egSmbkn7lZKqrPgcTD77YqS066p5f/view?usp=sharing)
 
 ## My Projects/Exercises ( in progress )
+
+Postman
+
+[https://jsonplaceholder.typicode.com/](https://drive.google.com/file/d/1thGU-H0T__H7z-ZV31BTrBOAnB46mwAx/view?usp=drive_link)
+
+[Expenses](https://drive.google.com/file/d/1thGU-H0T__H7z-ZV31BTrBOAnB46mwAx/view?usp=drive_link)
+
+[ToDoList](https://drive.google.com/file/d/1BL-8pGg7JX1EVFOIe3Le1E3Vxw812dDd/view?usp=drive_link)
+
+[The First Step](https://drive.google.com/file/d/1Pj-zUHLX53w0ivuofPDXRGqc-G2-oHti/view?usp=share_link)
+
 Test cases
 
   [3](https://docs.google.com/spreadsheets/d/17fiSA7GDR5Uev4oDt99Ifez0sAXIYD4wCpHSJXJ-V3w/edit?usp=sharing),
@@ -27,13 +38,7 @@ SQL queries
 
 [1](https://drive.google.com/file/d/1kuSosBbCydpJke2w3olSAOKam73Oed4O/view?usp=share_link)
 
-Postman
 
-[Expenses](https://drive.google.com/file/d/1thGU-H0T__H7z-ZV31BTrBOAnB46mwAx/view?usp=drive_link)
-
-[ToDoList](https://drive.google.com/file/d/1BL-8pGg7JX1EVFOIe3Le1E3Vxw812dDd/view?usp=drive_link)
-
-[The First Step](https://drive.google.com/file/d/1Pj-zUHLX53w0ivuofPDXRGqc-G2-oHti/view?usp=share_link)
 
 ## Tech skills, Tools – entry level
 
