@@ -16,7 +16,7 @@ I'm highly motivated to make a career change and pursue opportunities in the IT 
 
 Postman
 
-[https://jsonplaceholder.typicode.com/](https://drive.google.com/file/d/1thGU-H0T__H7z-ZV31BTrBOAnB46mwAx/view?usp=drive_link)
+[jsonplaceholder.typicode.com](https://drive.google.com/file/d/1H8QprI8LFu5jaOlH7XT5NpSM0W8hZjXJ/view?usp=sharing)
 
 [Expenses](https://drive.google.com/file/d/1thGU-H0T__H7z-ZV31BTrBOAnB46mwAx/view?usp=drive_link)
 
