@@ -16,13 +16,9 @@ I'm highly motivated to make a career change and pursue opportunities in the IT 
 
 Postman
 
-[jsonplaceholder.typicode.com](https://drive.google.com/file/d/1H8QprI8LFu5jaOlH7XT5NpSM0W8hZjXJ/view?usp=sharing)
+:white_small_square: [jsonplaceholder.typicode.com](https://drive.google.com/file/d/1H8QprI8LFu5jaOlH7XT5NpSM0W8hZjXJ/view?usp=sharing)                :white_small_square: [tests](https://drive.google.com/file/d/1toqMlwENDpx0u9gOIKIfVvdy-tyW4-GB/view?usp=sharing)
 
-[Expenses](https://drive.google.com/file/d/1thGU-H0T__H7z-ZV31BTrBOAnB46mwAx/view?usp=sharing)
-
-[ToDoList](https://drive.google.com/file/d/1BL-8pGg7JX1EVFOIe3Le1E3Vxw812dDd/view?usp=sharing)
-
-[The First Step](https://drive.google.com/file/d/1Pj-zUHLX53w0ivuofPDXRGqc-G2-oHti/view?usp=share_link)
+:white_small_square: [Expenses](https://drive.google.com/file/d/1thGU-H0T__H7z-ZV31BTrBOAnB46mwAx/view?usp=sharing)         :white_small_square: [ToDoList](https://drive.google.com/file/d/1BL-8pGg7JX1EVFOIe3Le1E3Vxw812dDd/view?usp=sharing)                                   :white_small_square: [The First Step](https://drive.google.com/file/d/1Pj-zUHLX53w0ivuofPDXRGqc-G2-oHti/view?usp=share_link)
 
 Test cases
 
