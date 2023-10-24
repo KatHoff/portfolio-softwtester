@@ -12,7 +12,7 @@ I'm highly motivated to make a career change and pursue opportunities in the IT 
 [ENG](https://drive.google.com/file/d/1RgiVHKuR1KXAUJRm1t7NiTfMuR4Sb8kO/view?usp=sharing)
 [PL](https://drive.google.com/file/d/1-w2egSmbkn7lZKqrPgcTD77YqS066p5f/view?usp=sharing)
 
-## My Projects/Exercises ( in progress )
+## Example of my work
 
 Postman
 
