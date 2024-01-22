@@ -1,5 +1,5 @@
 # Portfolio
-Entry-level software tester
+Junior software tester
 
 ## About me
 I'm highly motivated to make a career change and pursue opportunities in the IT field. Specifically, I am seeking a position as a manual tester in the IT industry. My primary goal is to develop my technical skills to become proficient in manual testing, and eventually transition into automation testing. Though my journey has just begun, I am determined to succeed. Keep your fingers crossed for me! :)
